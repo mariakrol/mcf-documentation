@@ -1,4 +1,4 @@
-# mcf-documentation
+# Architectural planning and documentation for the training project `Make Cats Free`
 Architectural documentation for a fake system Make Cats Free (MCF)
 ## initial documentation
 - [Initial requirements](https://github.com/mariakrol/mcf-documentation/blob/main/initial-requirements.md)
