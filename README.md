@@ -1,8 +1,8 @@
 # Architectural planning and documentation for the training project `Make Cats Free`
 Architectural documentation for a fake system Make Cats Free (MCF)
 ## initial documentation
-- [Initial requirements](https://github.com/mariakrol/mcf-documentation/blob/main/initial-requirements.md)
-- [Stakeholder's concerns](https://github.com/mariakrol/mcf-documentation/blob/main/concerns.md)
+- [Initial requirements](https://github.com/mariakrol/mcf-documentation/blob/main/0-initial/initial-requirements.md)
+- [Stakeholder's concerns](https://github.com/mariakrol/mcf-documentation/blob/main/0-initial/concerns.md)
 ## Steps of Work
 1. Process Requirements
    -[ ] Identify and prioritize stakeholders
