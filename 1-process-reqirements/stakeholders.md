@@ -1,0 +1,17 @@
+# Stakeholders of MCF
+- Top management;
+- HR managers;
+- Quality managers;
+- Service managers;
+- Account Managers (Financial department);
+- Data scientist;
+- Analyst / Business analyst;
+- Developers;
+- Qa / testers;
+- Betting system developers;
+- Admins;
+- Workers;
+- Technical support;
+- Layers;
+- Warehouse employee;
+- End users;
