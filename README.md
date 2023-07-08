@@ -15,16 +15,16 @@ Architectural documentation for a fake system Make Cats Free (MCF)
 
 2. Analysis
 
-   -[ ] Event Storming
-   -[ ] Data Model
-   -[ ] Analyzing Models with Strategic DDD
-   -[ ] Identification of Characteristics for Elements
-   -[ ] Calculation of Instability
+   - [ ] Event Storming
+   - [ ] Data Model
+   - [ ] Analyzing Models with Strategic DDD
+   - [ ] Identification of Characteristics for Elements
+   - [ ] Calculation of Instability
 
 3. Architectural Decisions
 
-   -[ ] Select the architectural style of the system
-   -[ ] Identifying service boundaries
-   -[ ] Choice of the database type (types)
-   -[ ] Selection of fitness functions
-   -[ ] Documentation of the entire context of decisions
+   - [ ] Select the architectural style of the system
+   - [ ] Identifying service boundaries
+   - [ ] Choice of the database type (types)
+   - [ ] Selection of fitness functions
+   - [ ] Documentation of the entire context of decisions
