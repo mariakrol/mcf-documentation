@@ -1,4 +1,7 @@
 # MCF Stakeholders
+
+[The Power-Interest matrix](https://www.figma.com/file/FAMXnWQgp8fuTqcJcSFDrd/MCF-Stakeholders?type=whiteboard&node-id=0%3A1&t=b1Nwv43zo5G7Xw2b-1)
+
 - **Top Management**
 
   The stakeholder group is key. The influence is highest because it is the main source of demands and payments.
