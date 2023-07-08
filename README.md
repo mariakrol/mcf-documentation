@@ -6,7 +6,7 @@ Architectural documentation for a fake system Make Cats Free (MCF)
 ## Steps of Work
 1. Process Requirements
 
-   -[X] Identify and prioritize stakeholders 
+   -[x] Identify and prioritize stakeholders 
      - [Description of stakeholders](https://github.com/mariakrol/mcf-documentation/blob/main/1-process-reqirements/stakeholders.md)
      - [The Power-Interest matrix](https://www.figma.com/file/FAMXnWQgp8fuTqcJcSFDrd/MCF-Stakeholders?type=whiteboard&node-id=0%3A1&t=b1Nwv43zo5G7Xw2b-1)
    -[ ] Process requirements and search for constraints
@@ -21,6 +21,7 @@ Architectural documentation for a fake system Make Cats Free (MCF)
    -[ ] Calculation of Instability
 
 3. Architectural Decisions
+
    -[ ] Select the architectural style of the system
    -[ ] Identifying service boundaries
    -[ ] Choice of the database type (types)
